@@ -1,5 +1,5 @@
 # Python_Medical_Appointments_Analysis
-Findings
+Findings Insight
 1.Female patients have taken more appointments then male patients
 2.Ratio of Nohow and Show is almost equal for age group except Age 0 and Age 1 with 80% show rate for each age group
 3.Each Neighbourhood have almost 80% show rate
